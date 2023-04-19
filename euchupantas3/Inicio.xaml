@@ -9,8 +9,8 @@
             <Entry x:Name="txtDato" Placeholder="Ingrese dato uno"/>
             <Entry x:Name="txtDatoDos" Placeholder="Ingrese dato dos"/>
             <Button x:Name="btnAbrir" Text="Abri ventana dos" Clicked="btnAbrir_Clicked"/>
-            <ImageButton Source="logo1.png" Clicked="ImageButton_Clicked"/>
+            <ImageButton Source="logo1.png"/>
             
         </StackLayout>
     </ContentPage.Content>
-</ContentPage>
+</ContentPage>  
